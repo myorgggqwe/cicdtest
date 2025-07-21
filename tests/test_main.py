@@ -7,6 +7,7 @@ c = 100
 
 f = 55
 gg = 444
+a = 14
 
 
 def test_read_root():
