@@ -3,9 +3,7 @@ from app.main import app
 
 client = TestClient(app)
 
-c = 100
-
-d = 10
+c = 1000
 
 
 def test_read_root():
