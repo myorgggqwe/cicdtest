@@ -5,6 +5,8 @@ client = TestClient(app)
 
 c = 100
 
+d = 10
+
 
 def test_read_root():
     response = client.get("/")
