@@ -6,6 +6,7 @@ client = TestClient(app)
 c = 100
 
 f = 55
+gg = 444
 
 
 def test_read_root():
