@@ -7,6 +7,8 @@ c = 1000
 
 f = 55
 
+bb = 999
+
 
 def test_read_root():
     response = client.get("/")
