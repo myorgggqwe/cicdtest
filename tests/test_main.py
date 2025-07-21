@@ -3,6 +3,8 @@ from app.main import app
 
 client = TestClient(app)
 
+c = 100
+
 
 def test_read_root():
     response = client.get("/")
