@@ -12,6 +12,7 @@ a = 14
 bb = 999
 kk = 77
 ww = 55
+sss = 77
 
 
 def test_read_root():
