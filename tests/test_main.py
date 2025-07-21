@@ -9,6 +9,7 @@ f = 55
 gg = 444
 
 bb = 999
+kk = 77
 
 
 def test_read_root():
