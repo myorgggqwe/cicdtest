@@ -7,4 +7,4 @@ b = 4
 
 @app.get("/")
 def read_root():
-    return {"message": "Hello..."}
+    return {"message": "Salam"}
